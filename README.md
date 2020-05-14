@@ -28,9 +28,3 @@ node index.js
 
 Simply open the index.html in your browser and you are done!
 
-## Team members:
-- Dmitry Pak
-- Bakhadir Pazilov
-- Azamat Bekes
-- Nursat Yerbol
-- Yersaiyn Dynmukhamed
